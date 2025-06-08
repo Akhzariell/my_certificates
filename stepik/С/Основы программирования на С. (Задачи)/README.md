@@ -17,3 +17,5 @@
 ---
 
 [Ссылка ](https://stepik.org/course/3078/syllabus)на курс в Stepik.
+
+<a href="https://github.com/Akhzariell/my_certificates/blob/main/README.md" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Вернуться на главную страницу репозитория</a>
